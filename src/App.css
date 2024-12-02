@@ -1,0 +1,25 @@
+ .bg1{
+  background-image: url('../public/images/pic1.jpeg');
+  background-position: center;
+  background-repeat: no-repeat, repeat;
+  height: 666px;
+  background-size: cover;
+ }
+
+ .bg2{
+    background-image: url('../public/images/Landing.jpg ');
+  background-position: center;
+  background-repeat: no-repeat, repeat;
+  height: 464px;
+  width: 464px;
+  background-size: cover;
+ }
+
+ .bg3{
+    background-image: url('../public/images/PageLeft.jpg ');
+  background-position: center;
+  background-repeat: no-repeat, repeat;
+  height: 464px;
+  width: 464px;
+  background-size: cover;
+ }
